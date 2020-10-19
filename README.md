@@ -1,4 +1,4 @@
-# Discord-Bot-For-Starters
+# DCE
 This is the tutorial bot :)
 
 ## HANDLER SYLE
